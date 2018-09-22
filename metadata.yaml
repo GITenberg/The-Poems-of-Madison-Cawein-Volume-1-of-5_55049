@@ -1,11 +1,14 @@
 _repo: The-Poems-of-Madison-Cawein-Volume-1-of-5_55049
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pape, Eric
     birthdate: 1870
     gutenberg_agent_id: '42144'
     url: http://www.gutenberg.org/2009/agents/42144
+covers:
+- cover_type: archival
+  image_path: 55049-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Cawein, Madison Julius
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2531
     wikipedia: http://en.wikipedia.org/wiki/Madison_Julius_Cawein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55049#The-Poems-of-Madison-Cawein-Volume-1-of-5
 gutenberg_issued: '2017-07-05'
 gutenberg_type: Text
 identifiers:
